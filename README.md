@@ -4,10 +4,15 @@ This project is a Customer Churn Prediction App built using Python and Streamlit
 
 ## Features
 ✅ User-friendly Streamlit UI
+
 ✅ Machine learning model trained on customer data
+
 ✅ Uses Pandas for data handling and preprocessing
+
 ✅ Matplotlib for visualizing data insights
+
 ✅ Joblib for saving and loading ML models
+
 ✅ Real-time churn prediction
 
 ## Tech Stack
